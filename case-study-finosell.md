@@ -13,10 +13,9 @@ all customer interactions, resolving issues and
 improving overall support performance.
 
 ## Challenges Identified
-- High Average Handle Time (AHT) affecting 
-  response efficiency
-- Complex customer escalations requiring 
-  structured resolution processes
+- High Average Handle Time affecting response efficiency
+- Complex customer escalations requiring structured 
+  resolution processes
 - High volume of repetitive customer inquiries 
   across multiple channels
 - Inconsistent response quality across channels
@@ -31,8 +30,7 @@ improving overall support performance.
 - Introduced structured escalation workflows
 
 **2. Handling Difficult Escalations**
-- Developed a clear escalation matrix for 
-  complex cases
+- Developed a clear escalation matrix for complex cases
 - Applied structured problem solving framework 
   to every escalation
 - Documented all escalation outcomes in CRM 
@@ -44,8 +42,7 @@ improving overall support performance.
 - Implemented personalised communication approach
 - Ensured every interaction ended with 
   satisfaction confirmation
-- Introduced proactive follow ups for 
-  unresolved issues
+- Introduced proactive follow ups for unresolved issues
 - Gathered and relayed customer feedback to 
   relevant teams for product improvement
 
@@ -53,10 +50,24 @@ improving overall support performance.
 
 | Metric | Before | After | Improvement |
 |---|---|---|---|
-| Average Handle Time | Baseline | Optimised | 20% reduction |
+| Average Handle Time | 15+ minutes | 5 minutes | 66% reduction |
 | Customer Satisfaction Score | Baseline | Improved | 35% boost |
 | Net Promoter Score | Baseline | Improved | 40% increase |
 | Escalation Resolution | Ad hoc | Structured | Consistent |
+
+**Results achieved within 1 month**
+
+## Team Impact
+My approach to reducing handle time and improving 
+customer communication was adopted across the 
+entire company. The structured templates and 
+escalation workflows I developed became the 
+standard process for the support team, improving 
+overall response quality and consistency.
+
+Customers directly acknowledged the improvement 
+in response quality and speed, contributing to 
+the boost in CSAT and NPS scores company wide.
 
 ## Key Learnings
 - Structured processes reduce handle time 
