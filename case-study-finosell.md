@@ -2,7 +2,7 @@
 
 **Industry:** Fintech
 **Role:** Customer Support Specialist
-**Period:** 2023 - 2024
+**Period:** 2023 - 2025
 
 ## Background
 Finosell is a fast-paced fintech startup operating 
